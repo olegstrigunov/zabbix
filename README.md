@@ -41,6 +41,13 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
+### Ответ 1 
+![Скрин 1](https://github.com/olegstrigunov/zabbix/blob/main/screans/Снимок%20экрана%20от%202023-10-30%2010-16-23.png)
+git clone 
+git add --all
+git commit -m
+git push
+
 ---
 
 ### Задание 2 
@@ -59,6 +66,11 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
+
+### Ответ 2
+   ![Скрин 1](https://github.com/olegstrigunov/zabbix/blob/main/screans/1.png)
+   ![Скрин 2](https://github.com/olegstrigunov/zabbix/blob/main/screans/2.png)
+   ![Скрин 3](https://github.com/olegstrigunov/zabbix/blob/main/screans/3.png)
 
 ---
 ## Задание 3 со звёздочкой*
