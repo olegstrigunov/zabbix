@@ -43,10 +43,10 @@
 
 ### Ответ 1 
 ![Скрин 1](https://github.com/olegstrigunov/zabbix/blob/main/screans/Снимок%20экрана%20от%202023-10-30%2010-16-23.png)
-git clone 
-git add --all
-git commit -m
-git push
+1. git clone 
+2. git add --all
+3. git commit -m
+4. git push
 
 ---
 
@@ -71,6 +71,11 @@ git push
    ![Скрин 1](https://github.com/olegstrigunov/zabbix/blob/main/screans/1.png)
    ![Скрин 2](https://github.com/olegstrigunov/zabbix/blob/main/screans/2.png)
    ![Скрин 3](https://github.com/olegstrigunov/zabbix/blob/main/screans/3.png)
+
+1. git clone 
+2. git add --all
+3. git commit -m
+4. git push
 
 ---
 ## Задание 3 со звёздочкой*
